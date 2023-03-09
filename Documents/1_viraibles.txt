@@ -1,0 +1,3 @@
+In programming, a variable is a named location in memory where a value can be stored and retrieved. A variable has a type, which determines what kind of values it can store, and a name, which is used to reference the variable in the code.
+
+In most programming languages, you can declare a variable by specifying its type and name, and then assigning a value to it. For example, in the following code snippet written in the Dart programming language, the variables x, y, and z are all declared and initialized with different values.
