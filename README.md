@@ -6,4 +6,4 @@ A few facts about me: 👩‍💻 For 3 years I have been creating cross-platfor
 😍 I am passionate about what I do, and programming is my major hobby.
 💙 I am a Freelancer Developer in Dart and Flutter.
 ✍🏻 I also have an interest in mobile apps design & DevOps Engineering.
-I live in Iraq-Kurdistan. I speak English, fluent Kurdish.
+I live in Iraq-Kurdistan. I speak English, fluent Kurdish. 
