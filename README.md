@@ -1,4 +1,4 @@
-I'm Sa3di software engineer who specializes for Mobile app Development
+
 Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App developer.
 passionate about quality software & Programming .
 Focusing on Flutter, Firebase, Sqlite, Dart, Java, Kotlin and DevOps Engineering.
