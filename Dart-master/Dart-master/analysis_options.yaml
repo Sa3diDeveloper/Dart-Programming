@@ -1,3 +1,0 @@
-analyzer:
-  exclude:
-    - maths/fermats_little_theorem.dart
