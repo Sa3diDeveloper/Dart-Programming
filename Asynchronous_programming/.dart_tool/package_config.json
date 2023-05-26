@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-60.0.0",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-61.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-5.12.0",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-5.13.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.1",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.2",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -57,9 +57,9 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "fixnum",
@@ -75,9 +75,9 @@
     },
     {
       "name": "glob",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/glob-2.1.1",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/glob-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "2.19"
     },
     {
       "name": "http",
@@ -111,13 +111,13 @@
     },
     {
       "name": "logging",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.1.1",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.19"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.15",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -237,19 +237,19 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/test-1.24.2",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/test-1.24.3",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.5.2",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.6.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/test_core-0.5.2",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/test_core-0.5.3",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -267,9 +267,9 @@
     },
     {
       "name": "watcher",
-      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/watcher-1.0.2",
+      "rootUri": "file:///C:/Users/sa3di/AppData/Local/Pub/Cache/hosted/pub.dev/watcher-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "web_socket_channel",
@@ -296,7 +296,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-05-11T06:48:00.482064Z",
+  "generated": "2023-05-26T17:51:24.334895Z",
   "generator": "pub",
-  "generatorVersion": "2.19.6"
+  "generatorVersion": "3.0.0"
 }
