@@ -8,4 +8,5 @@ void main() {
   var operatingSystemVersion = Platform.operatingSystemVersion;
   print(operatingSystemVersion);
   var s = Platform.packageConfig;
+   print(s);
 }
