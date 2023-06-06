@@ -4,6 +4,12 @@ main() {
   print(a);
 
   final list1 = [1, 2, 3, 4, 5, 6, 7, 8];
-  final [a1, b1, c1] = list1;
+  //in this case we not get  error , and will print the left elements
+  final [a1, b1, c1, ...] = list1;
   print(a1);
+
+  final list2 = [1, 2, 3, 4, 5, 6, 7, 8];
+  //!! underScore will remove value 
+  final [_, b2, c2, ...h2] = list2;
+  print(h2);
 }
