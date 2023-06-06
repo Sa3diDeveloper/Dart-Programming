@@ -1,4 +1,5 @@
 main() {
+  // ignore: null_argument_to_non_null_type
   Future<int> index = Future.value();
   print(index.toInt());
 }

@@ -42,7 +42,6 @@ class GetFunInfo with info_required, Person_Info, Deep_Details {
     return super.deep();
   }
 
-  @override
   more() {
     age;
   }
