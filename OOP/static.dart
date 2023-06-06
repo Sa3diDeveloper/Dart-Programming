@@ -1,4 +1,3 @@
-import 'static.dart';
 
 class Human {
   Human(String s);

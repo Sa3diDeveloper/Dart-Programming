@@ -25,5 +25,5 @@ main() {
     return say;
   };
   Function f = funP();
- // f('Saadi');
+ f('Saadi');
 }
