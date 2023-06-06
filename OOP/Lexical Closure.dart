@@ -1,6 +1,5 @@
 // ignore_for_file: prefer_function_declarations_over_variables
 
-import '../functions/3_pass_arr.dart';
 
 main() {
   try {
