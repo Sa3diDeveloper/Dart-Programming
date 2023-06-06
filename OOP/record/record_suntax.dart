@@ -15,4 +15,17 @@ main() {
 
 // Initialize it with a record expression:
 record2 = (a: 123, b: true);
+
+
+// ({int a, int b}) recordAB = (a: 1, b: 2);
+// ({int x, int y}) recordXY = (x: 3, y: 4);
+
+// Compile error! These records don't have the same type.
+// recordAB = recordXY;
+//!! when we want to combine two records, the both of two records 
+//!! the data type and records type must be some things
+(int a, int b) recordAB = (1, 2);
+(int x, int y) recordXY = (3, 4);
+
+recordAB = recordXY; // OK.
 }
