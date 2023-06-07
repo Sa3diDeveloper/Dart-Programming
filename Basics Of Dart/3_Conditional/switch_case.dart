@@ -1,6 +1,7 @@
 main() {
   int page = 1;
 
+
   final text = switch (page) {
     0 => "first page",
     //! we can alo use condition with it 
