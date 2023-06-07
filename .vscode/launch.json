@@ -7,9 +7,7 @@
         {
             "name": "Dart & Flutter",
             "request": "launch",
-            "type": "dart",
-            "program": "OOP/record.dart",
-           "console": "terminal"
+
         }
     ]
 }
