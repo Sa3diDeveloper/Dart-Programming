@@ -1,29 +1,35 @@
-import 'dart:math';
+int findKthSmallest(List<int> nums, int k) {
+  if (k <= 0 || k > nums.length) {
+    throw new ArgumentError("k must be positive and less than or equal to the size of nums.");
+  }
+  final n = nums.length - k;
+  int quickSelect(int left, int right) {
+    var pivot = nums[right];
+    var p = left;
+    for (var i = left; i < right; i++) {
+      if (nums[i] >= pivot) {
+        var temp = nums[i];
+        nums[i] = nums[p];
+        nums[p] = temp;
+        p++;
+      }
+    }
+    var temp = nums[right];
+    nums[right] = nums[p];
+    nums[p] = temp;
+    if (p > n) {
+      return quickSelect(left, p - 1);
+    } else if (p < n) {
+      return quickSelect(p + 1, right);
+    } else {
+      return nums[p];
+    }
+  }
+  return quickSelect(0, nums.length - 1);
+}
 
 void main() {
-  var arr = [1, 55, 55, 6, 3, 2];
-  int n = arr.length;
-  var sort = arr.sort();
-  print(arr[3]);
-  UsingFold();
-}
-UsingFold() {
-  var given_list = [122, 12, 33, 14, 5, 555];
-
-  var smallest_value = given_list.fold(given_list[0],
-      (int previous, int current) => previous < current ? previous : current);
-  var largest_value = given_list.fold(given_list[0],
-      (int previous, int current) => previous > current ? previous : current);
-
-  print("Smallest value in the list : ${smallest_value}");
-  print("Largest value in the list : ${largest_value}");
-}
-UsingFoldAndMath() {
-  var given_list = [122, 12, 33, 14, 5, 555];
-
-  var smallest_value = given_list.fold(given_list[0], min);
-  var largest_value = given_list.fold(given_list[0], max);
-
-  print("Smallest value in the list : ${smallest_value}");
-  print("Largest value in the list : ${largest_value}");
+  var nums = [5, 33, 1, 3, 2, 7, 9, 10];
+  var k = 4;
+  print('findKthSmallest(${nums}, ${k}): ${findKthSmallest([...nums], k)}');
 }
