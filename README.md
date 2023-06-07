@@ -5,4 +5,4 @@ Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development exper pa
 
 thanks for dowmloading this projects the main aims of this projetcs to benfits dart developers and help them.
 
-I try to collect dart examples and mine projects, you can be a member of this project by contacting me on Twitter. let's make the world a better place 
+I try to collect dart examples and mine projects, you can be a member of this project by contacting me on Twitter. let's make the world a better place .
