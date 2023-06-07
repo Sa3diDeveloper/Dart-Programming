@@ -1,6 +1,6 @@
 main() {
   int page = 1;
-  int lastPage = 2;
+
 
   final text = switch (page) {
     0 => "first page",
