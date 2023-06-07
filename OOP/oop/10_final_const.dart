@@ -1,11 +1,10 @@
 void main() {
-  // ignore: unused_local_variable
+  final String a1 = 'a';
   const String a2 = 'a';
 
   // a1 = 'd';  //Error
   // a2 = 'd';  //Error
 
-  // ignore: unused_local_variable
   final int a = DateTime.now().year;
   // const int b = DateTime.now().year; //Error
 

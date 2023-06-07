@@ -35,7 +35,7 @@
       <recent name="E:\Dart Programming\Dart  Language -Github\Basics Of Dart" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Dart Command Line App.Dart - find duplicate values on a List.dart">
     <configuration name="Dart - find duplicate values on a List.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Dart Programs/Dart - find duplicate values on a List.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart Programs" />
@@ -56,6 +56,14 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart Programs" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.Dart - find duplicate values on a List.dart" />
+        <item itemvalue="Dart Command Line App.FibonacciSeriesInDartWithRecursion.dart" />
+        <item itemvalue="Dart Command Line App.calculator.dart" />
+        <item itemvalue="Dart Command Line App.GetMyAge.dart" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
