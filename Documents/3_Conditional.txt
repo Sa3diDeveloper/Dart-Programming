@@ -1,3 +1,0 @@
-In programming, a conditional statement is a construct that allows you to perform different actions depending on whether a certain condition is true or false. They allow you to control the flow of your program's execution, making it possible to write more complex and interesting programs.
-
-The basic structure of a conditional statement typically includes a Boolean expression (which evaluates to either true or false) followed by one or more statements that will be executed if the Boolean expression is true. The most common forms of conditional statements are if statements, if-else statements, and if-elif-else statements.
