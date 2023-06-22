@@ -7,6 +7,7 @@ class Human {
     print("name:${age}");
   }
 }
+
 class Human1 {
   //age have default value
   //and othe ris not optional
@@ -16,7 +17,8 @@ class Human1 {
     print("name:${age}");
   }
 }
+
 void main() {
   var info = Human("roman", "pro", 21);
-  print(info);
+  info;
 }
