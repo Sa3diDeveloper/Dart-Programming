@@ -1,6 +1,6 @@
 void main() {
   print(info(Color.red));
-  print(Color.values[1]);
+  print(Color.values[0]);
   print(Color.values.length);
 }
 
