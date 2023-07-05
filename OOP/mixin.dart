@@ -2,7 +2,7 @@ mixin A {
   void info();
 }
 
-mixin B {
+mixin B  {
   void info2();
 }
 
