@@ -2,12 +2,14 @@ mixin A {
   void info();
 }
 
-mixin B  {
-  void info2();
+mixin B {
+  void info2() {
+    print('me');
+  }
 }
 
 abstract class C {
-  void info3(){}
+  void info3() {}
 }
 
 class D extends C with A, B {
